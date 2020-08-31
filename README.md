@@ -37,10 +37,10 @@ Info: Deleted 1 object(s)
 /Users/jefhai/Documents/git/SFSymbolsTo3D/svg/smallcircle.circle.fill.svg
 Info: Deleted 47 object(s)
     (  0.0001 sec |   0.0000 sec) OBJ Export path: '/Users/jefhai/Documents/git/SFSymbolsTo3D/models/smallcircle.circle.fill.obj'
-          (  0.0125 sec |   0.0119 sec) Finished writing geometry of 'Curve.039'.
-      (  0.0141 sec |   0.0137 sec) Finished exporting geometry, now exporting materials
+    (  0.0125 sec |   0.0119 sec) Finished writing geometry of 'Curve.039'.
+    (  0.0141 sec |   0.0137 sec) Finished exporting geometry, now exporting materials
 NO NODES! 100.00%
-      (  0.0151 sec |   0.0147 sec) OBJ Export Finished
+    (  0.0151 sec |   0.0147 sec) OBJ Export Finished
 Progress: 100.00%
 ```
 
